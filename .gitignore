@@ -1,0 +1,7 @@
+*.html
+*.py
+*.css
+venv
+.ipynb_checkpoints/
+__pycache__/
+reveal*/*
