@@ -127,6 +127,12 @@ Explore options for spin outs / licensing early (*Research Services Impact & IP 
 
 ![](images/auto-license.png){ height=512px }
 
+# Even FAIRer?
+
+![](images/fairpusher.svg){ height=512px }
+
+# Thank you
+
 # University of Sheffield advice
 
 - [Research Software Engineering team](https://rse.shef.ac.uk/)
