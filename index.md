@@ -2,7 +2,9 @@
 
 <style> .reveal h1 { font-size: 2em; } </style>
 
-Why, when and how (draft guidance, we're not lawyers). [More information](https://milliams.gitlab.io/software_engineering_best_practices/Licensing.html).
+Why, when and how.
+
+(This is software engineering advice, not legal advice!)
 
 
 # Copyright
