@@ -6,7 +6,6 @@ Why, when and how.
 
 (This is software engineering advice, not legal advice!)
 
-
 # Copyright
 
 [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) of 1886: Copyright is immediately bestowed upon a work the moment it is created, without requiring any registration.
@@ -105,7 +104,8 @@ Explore options for spin outs / licensing early (*Research Services Impact & IP 
 - Choose a licence, agreed by everyone on the project.
 - Put the licence text in a file alongside your code.
 - Publish your code somewhere such as GitHub or GitLab.
-- Reference specific versions using [ORDA](https://orda.shef.ac.uk/), [Zenodo](https://zenodo.org/) or equivalent.
+- *Release a package.*
+- *Reference specific versions using [ORDA](https://orda.shef.ac.uk/), [Zenodo](https://zenodo.org/) or equivalent.*
 
 :::
 
