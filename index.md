@@ -4,7 +4,43 @@
 
 Why, when and how.
 
-(This is software engineering advice, not legal advice!)
+(This is software engineering advice, and has not been checked by a legal expert.)
+
+# Hi, I'm [Bob](https://rse.shef.ac.uk/contact/bob-turner/)!
+
+Career...
+Software Consultant -> Researcher -> Research Software Engineer
+
+<!--This can be modified for individual presenters-->
+
+# RSE at Sheffield
+
+![RSE](https://github.com/RSE-Sheffield/RSE-Sheffield.github.io/raw/master/assets/images/logo/rse-logoonly-stroke.png){ height=256px }
+
+13 RSEs, 35 projects / year worth ~£11m total
+
+# Operational Model
+
+- Underwritten by overheads
+- Funded from external sources
+
+# Results
+
+- Financial sustainability
+- “Fair” allocation of staff to projects
+- “Convenient” access to growing pool of expertise and experience
+- (Mainly) academic led
+- Open ended contracts for RSEs
+
+# Talk Structure
+
+- Definitions
+- Examples of open source software
+- Ideological motivation
+  - FAIR
+  - Four Freedoms
+- Barriers to open sourcing
+- How to open source
 
 # Copyright
 
