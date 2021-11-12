@@ -180,6 +180,12 @@ Explore options for spin outs / licensing early (*Research Services Impact & IP 
 
 ![](images/fairpusher.svg){ height=512px }
 
+<!--
+graph TD
+    A[GitHub] -->|Webhook or action| B(Package Index - PyPI, CRAN, ...)
+    A -->|Webhook or action| C(Archive - ORDA, Zenodo, ...)
+-->
+
 # Thank you
 
 # University of Sheffield advice
