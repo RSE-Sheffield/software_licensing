@@ -68,6 +68,17 @@ Relaxes conditions imposed by copyright in specific ways.
 
 The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 
+# Is software a special type of data?
+
+::: incremental
+
+- Yes
+- But...
+  - Executable
+  - Changes a lot
+
+:::
+
 # FAIR4RS: We envision a world where:
 
 * All research is reproducible
