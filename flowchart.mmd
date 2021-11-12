@@ -13,7 +13,7 @@ flowchart TD
 
     J([Does the commercial opportunity preclude open source licesning?])
 
-    K(Use an appropriate open source license.)
+    K(Closed source.)
 
     A -->|Yes| B
     B -->|No| H
@@ -22,9 +22,10 @@ flowchart TD
     C -->|Yes| I
     C -->|No| D
     D -->|Yes| G
-    D -->|No| E
+    D --> E
     E -->|Yes| F
     F --> J
-    J -->|No| K
-    E -->|No| K
-    G --> E
+    J -->|No| G
+    I --> E
+    E -->|No| G
+    J -->|Yes| K
