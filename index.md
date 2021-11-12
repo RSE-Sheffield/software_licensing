@@ -194,6 +194,6 @@ graph TD
 
 # University of Sheffield advice
 
-- [Research Software Engineering team](https://rse.shef.ac.uk/)
+- [Research Software Engineering team **Code Clinic**](https://rse.shef.ac.uk/)
 - [Library, Research Data Management](https://www.sheffield.ac.uk/library/rdm)
 - [Research Services Impact & IP Team](https://www.sheffield.ac.uk/rs/impact)
