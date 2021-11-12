@@ -1,0 +1,30 @@
+flowchart TD
+    A([Will you include code from people outside the project?])
+    B([Can code from others be reused by the project?])
+    C([Does funder require a specific license?])    
+    D([Was open source licensing specified in the funding application?])    
+
+    E([Is there a commercial opportunity?])
+    F(https://www.sheffield.ac.uk/rs/commercialisation/ice-form)
+
+    G(Use an appropriate open source license.)
+    H(Seek assistance from library / RSE.)
+    I(Use license stipulated by funder.)
+
+    J([Does the commercial opportunity preclude open source licesning?])
+
+    K(Use an appropriate open source license.)
+
+    A -->|Yes| B
+    B -->|No| H
+    B -->|Yes| C
+    A -->|No| C
+    C -->|Yes| I
+    C -->|No| D
+    D -->|Yes| G
+    D -->|No| E
+    E -->|Yes| F
+    F --> J
+    J -->|No| K
+    E -->|No| K
+    G --> E
