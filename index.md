@@ -57,6 +57,10 @@ Relaxes conditions imposed by copyright in specific ways.
 
 No license : no copying.
 
+# Who owns the copyright on my code?
+
+> If you're a University of Sheffield researcher, probably the University of Sheffield.
+
 # Examples of open source
 
 ::: incremental
@@ -183,10 +187,6 @@ Explore options for spin outs / licensing early (*Research Services Impact & IP 
 [choosealicence.com](https://choosealicense.com/)
 
 *Presenter follow links.*
-
-# Who owns the copyright on my code?
-
-> If you're a University of Sheffield researcher, probably the University of Sheffield.
 
 # Creative Commons?
 
