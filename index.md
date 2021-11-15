@@ -184,6 +184,18 @@ Explore options for spin outs / licensing early (*Research Services Impact & IP 
 
 *Presenter follow links.*
 
+# Creative Commons?
+
+::: incremental
+
+- No recommended:
+  - Lack software specific terms
+  - License compatibility problems
+
+:::
+
+[https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)
+
 # Apply the licence
 
 ![](images/license-file.png)
