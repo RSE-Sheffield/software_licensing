@@ -97,6 +97,12 @@ The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence
 - The freedom to redistribute copies so you can help others (freedom 2).
 - The freedom to distribute copies of your modified versions to others (freedom 3).
 
+# National Policy
+
+![](images/roadmap.png){ height=512px }
+
+[https://www.gov.uk/government/publications/uk-research-and-development-roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap)
+
 # Reasons **not** to make code open
 
 ::: incremental
