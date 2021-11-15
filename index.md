@@ -29,7 +29,7 @@ Software Consultant -> Researcher -> Research Software Engineer
 - Underwritten by overheads
 - Funded from external sources
 
-# Results
+# Operational Model: Results
 
 - Financial sustainability
 - “Fair” allocation of staff to projects
