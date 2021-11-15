@@ -112,7 +112,9 @@ The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence
 
 ![](images/roadmap.png)
 
-[https://www.gov.uk/government/publications/uk-research-and-development-roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap), [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+[https://www.gov.uk/government/publications/uk-research-and-development-roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap)
+
+[OGL 3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 # Reasons **not** to make code open
 
