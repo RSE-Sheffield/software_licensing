@@ -99,7 +99,7 @@ The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence
 
 # National Policy
 
-![](images/roadmap.png){ height=512px }
+![](images/roadmap.png)
 
 [https://www.gov.uk/government/publications/uk-research-and-development-roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap)
 
