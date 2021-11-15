@@ -184,6 +184,10 @@ Explore options for spin outs / licensing early (*Research Services Impact & IP 
 
 *Presenter follow links.*
 
+# Who owns the copyright on my code?
+
+> If you're a University of Sheffield researcher, probably the University of Sheffield.
+
 # Creative Commons?
 
 ::: incremental
