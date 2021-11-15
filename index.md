@@ -1,5 +1,6 @@
 ---
 title: Licensing your code
+slideNumber: true
 ...
 
 # Licensing your code
