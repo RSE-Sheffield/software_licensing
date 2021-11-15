@@ -22,10 +22,9 @@ flowchart TD
     C -->|Yes| I
     C -->|No| D
     D -->|Yes| G
-    D --> E
+    D -->|No| E
     E -->|Yes| F
     F --> J
     J -->|No| G
-    I --> E
     E -->|No| G
     J -->|Yes| K
