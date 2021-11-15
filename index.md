@@ -207,6 +207,17 @@ Explore options for spin outs / licensing early (*Research Services Impact & IP 
 
 ![](images/auto-license.png){ height=512px }
 
+# Compendia?
+
+```
+
+├───Data
+├───Code
+└───Docs
+```
+
+License individually.
+
 # Even FAIRer?
 
 ![](images/fairpusher.svg){ height=512px }
