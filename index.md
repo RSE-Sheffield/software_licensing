@@ -164,10 +164,16 @@ Explore options for spin outs / licensing early (*Research Services Impact & IP 
 
 # Choose a license
 
-- "Copyleft" e.g. [GPL3](https://choosealicense.com/licenses/gpl-3.0/) - better for academic collaboration
-- More permissive e.g. [MIT](https://choosealicense.com/licenses/mit/) - better for private sector collaboration
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+**"Copyleft"** e.g. [GPL3](https://choosealicense.com/licenses/gpl-3.0/) - better for academic collaboration
+:::
+::: {.column width="50%"}
+**More permissive** e.g. [MIT](https://choosealicense.com/licenses/mit/) - better for private sector collaboration
+:::
+::::::::::::::
 
-[choosealicence.com](choosealicence.com)
+[choosealicence.com](https://choosealicense.com/)
 
 *Presenter follow links.*
 
