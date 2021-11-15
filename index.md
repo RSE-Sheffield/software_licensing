@@ -1,3 +1,7 @@
+---
+title: Licensing your code
+...
+
 # Licensing your code
 
 <style> .reveal h1 { font-size: 2em; } </style>
