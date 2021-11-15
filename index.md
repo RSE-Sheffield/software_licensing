@@ -55,6 +55,8 @@ Software Consultant -> Researcher -> Research Software Engineer
 
 Relaxes conditions imposed by copyright in specific ways.
 
+No license : no copying.
+
 # Examples of open source
 
 ::: incremental
