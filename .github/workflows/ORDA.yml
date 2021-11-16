@@ -1,6 +1,7 @@
 name: Upload to ORDA
 on:
-  release
+  workflow_dispatch:
+  release:
 jobs:
   upload:
     runs-on: ubuntu-latest
