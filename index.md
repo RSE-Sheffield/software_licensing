@@ -9,7 +9,7 @@ slideNumber: true
 
 Why, when and how.
 
-(This is software engineering advice, and has not been checked by a legal expert. Feedback welcome!)
+(This is software engineering advice, and has not been checked by a legal expert. **Feedback welcome!**)
 
 # Hi, I'm [Bob](https://rse.shef.ac.uk/contact/bob-turner/)!
 
