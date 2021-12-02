@@ -18,6 +18,6 @@ jobs:
         uses: figshare/github-upload-action@v1.1
         with:
           FIGSHARE_TOKEN: ${{ secrets.FIGSHARE_TOKEN }}
-          FIGSHARE_ENDPOINT: 'https://api.figsh.com/v2'
+          FIGSHARE_ENDPOINT: 'https://api.figshare.com/v2'
           FIGSHARE_ARTICLE_ID: 17014604 
           DATA_DIR: 'data'
