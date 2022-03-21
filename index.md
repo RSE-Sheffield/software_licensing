@@ -48,9 +48,9 @@ Software Consultant -> Researcher -> Research Software Engineer
 
 > If you're a University of Sheffield researcher, probably **not** you!
 
-- Staff or research students - usually the university.
+- Staff or research students - usually the university ([student IP](https://www.sheffield.ac.uk/research-services/commercialisation/student-ip), [UK gov](https://www.gov.uk/guidance/ownership-of-copyright-works).
 - Different rules for undergrads.
-- Funded research can have specific agreements in place. Check with your PI.
+- Funded research can have specific agreements in place - check with your PI.
 
 # License
 
