@@ -54,21 +54,57 @@ Software Consultant -> Researcher -> Research Software Engineer
 
 # License
 
-Relaxes conditions imposed by copyright in specific ways.
+Gives right to use copyright material in specific ways, without changing ownership.
 
 No license : no **right** to copy.
 
-# Examples of open source
+# In a nutshell
 
-::: incremental
+![](images/nutshell.svg)
 
-* Linux
-* Firefox
-* Python
-* VSCode (Microsoft)
-* PyTorch (Facebook)
+# Open or closed source?
 
-:::
+Coming up soon...
+
+> The benefits and drawbacks of open source and closed source licences.
+
+# Open Source Benefits
+
+- Reproducibility
+- Faster impact
+- More eyes, less bugs
+- Access for everyone, regardless of ability to pay
+
+# Open Source Drawbacks
+
+- Misuse (building weapons, rigging elections)
+- Sustainability (Who updates the code? Who pays for this?)
+
+> Software is not "just" data. It **needs** to be updated to remain useful. [Here's the code for Space Invaders](https://computerarcheology.com/Arcade/SpaceInvaders/Code.html).
+
+# Open Source Case Study: [GPy](https://github.com/SheffieldML/GPy)
+
+- AI package (anecdotally) used in financial services, public health modelling.
+- [2.9 million downloads on PyPi](https://pepy.tech/project/gpy)
+- [1.7k stars on GitHub](https://github.com/SheffieldML/GPy)
+- No maintainers!
+
+# Open Source Case Study: [GateNLP](https://github.com/GateNLP)
+
+- "Natural Language Processing" (AI text analysis)
+- [Impact case study (2014)](https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=9439)
+- Used in media (delivery; analysis; journalism); pharmaceuticals; patent search; voice-of-the-customer; brand, product, and reputation management; social media analytics; bioinformatics.
+- Commercial beneficiaries include BT, Elsevier, Yahoo, Atos, Dassault Aviation, MPS Bank, Creditreform, BBC, the Press Association, Euromoney.
+
+# Closed Source Benefits
+
+# Closed Source Drawbacks
+
+# Closed Source Case Study: [Fluent](https://www.nafems.org/blog/posts/analysis-origins-fluent/)
+
+- 
+
+# Closed Source Case Study: 
 
 # Motivation: FAIR Priniciples
 
