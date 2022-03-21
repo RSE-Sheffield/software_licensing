@@ -38,13 +38,6 @@ Software Consultant -> Researcher -> Research Software Engineer
 
 # Talk Structure
 
-- Definitions
-- Examples of open source software
-- Ideological motivation
-  - FAIR
-  - Four Freedoms
-- Barriers to open sourcing
-- How to open source
 
 # Copyright
 
