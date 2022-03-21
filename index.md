@@ -1,15 +1,14 @@
 ---
 title: Licensing your code for better impact
+date: March 2022
 slideNumber: true
 ...
 
-# Licensing your code
+# Status of these slides
 
 <style> .reveal h1 { font-size: 2em; } </style>
 
-Why, when and how.
-
-(This is software engineering advice, and has not been checked by a legal expert. **Feedback welcome!**)
+> This is work in progress software engineering advice, and has not been checked by a legal expert. **Feedback welcome!**
 
 # Hi, I'm [Bob](https://rse.shef.ac.uk/contact/bob-turner/)!
 
