@@ -44,15 +44,19 @@ Software Consultant -> Researcher -> Research Software Engineer
 - Copyright is a type of intellectual property, particularly relevant to software.
 - [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) of 1886: Copyright is immediately bestowed upon a work the moment it is created, without requiring any registration.
 
+# Who owns the copyright on my code?
+
+> If you're a University of Sheffield researcher, probably **not** you!
+
+- Staff or research students - usually the university.
+- Different rules for undergrads.
+- Funded research can have specific agreements in place. Check with your PI.
+
 # License
 
 Relaxes conditions imposed by copyright in specific ways.
 
-No license : no copying.
-
-# Who owns the copyright on my code?
-
-> If you're a University of Sheffield researcher, probably the University of Sheffield.
+No license : no **right** to copy.
 
 # Examples of open source
 
