@@ -41,7 +41,8 @@ Software Consultant -> Researcher -> Research Software Engineer
 
 # Copyright
 
-[Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) of 1886: Copyright is immediately bestowed upon a work the moment it is created, without requiring any registration.
+- Copyright is a type of intellectual property, particularly relevant to software.
+- [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) of 1886: Copyright is immediately bestowed upon a work the moment it is created, without requiring any registration.
 
 # License
 
