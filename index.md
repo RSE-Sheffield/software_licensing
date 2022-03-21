@@ -1,5 +1,5 @@
 ---
-title: Licensing your code
+title: Licensing your code for better impact
 slideNumber: true
 ...
 
