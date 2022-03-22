@@ -70,29 +70,15 @@ No license : no **right** to copy.
 - Access for everyone, regardless of ability to pay
 - Encouraged by UK Government
 
-# Motivation: FAIR Priniciples
+# Motivation: FAIR Principles
 
-![](https://the-turing-way.netlify.app/_images/fair-principles.jpg){ height=300px }
+> ...the existing digital ecosystem surrounding scholarly data publication prevents us from extracting maximum benefit from our research investments...
 
-The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
+[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 
-# FAIR4RS: We envision a world where:
+**Findability**, **Accessibility**, **Interoperability**, and **Reuse**
 
-* All research is reproducible
-* All research software is open
-* All research software is usable by others (for their own research)
-* All contributors to research software are recognized for their work
-* All research software is sustained as long as it is useful
-* All research software is high-quality and robust
-
-[Katz et al. 2021](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf)
-
-# [Four freedoms (abridged)](https://www.gnu.org/philosophy/free-sw.en.html)
-
-- The freedom to run the program as you wish, for any purpose (freedom 0).
-- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).
-- The freedom to redistribute copies so you can help others (freedom 2).
-- The freedom to distribute copies of your modified versions to others (freedom 3).
+[FAIR4RS](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf), [Four freedoms (abridged)](https://www.gnu.org/philosophy/free-sw.en.html)
 
 # Open Source Drawbacks
 
