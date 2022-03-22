@@ -62,15 +62,9 @@ No license : no **right** to copy.
 
 ![](images/nutshell.svg)
 
-# Open or closed source?
-
-Coming up soon...
-
-> The benefits and drawbacks of open source and closed source licences.
-
 # Open Source Benefits
 
-- Reproducibility
+- Reproducibility is easier
 - Faster impact
 - More eyes, less bugs
 - Access for everyone, regardless of ability to pay
@@ -98,7 +92,19 @@ Coming up soon...
 
 # Closed Source Benefits
 
+- May increase the value of closed source licences, or products derived from the software.
+- Resulting revenue might fund:
+  - Sustainability and maintenance
+  - Further development
+  - Regulatory compliance
+  - Support
+  - Your yacht (😂 - but you may benefit financially)
+
 # Closed Source Drawbacks
+
+- Reproducibility is harder, perhaps impossible
+- Transparency / openness is reduced
+- Trust in research outputs is reduced
 
 # Closed Source Case Study: [Fluent](https://www.nafems.org/blog/posts/analysis-origins-fluent/)
 
@@ -111,17 +117,6 @@ Coming up soon...
 ![](https://the-turing-way.netlify.app/_images/fair-principles.jpg){ height=300px }
 
 The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
-
-# Is software a special type of data?
-
-::: incremental
-
-- Yes
-- But...
-  - Executable
-  - Changes a lot
-
-:::
 
 # FAIR4RS: We envision a world where:
 
