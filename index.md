@@ -90,6 +90,8 @@ No license : no **right** to copy.
 
 # Open Source Drawbacks
 
+- Getting "scooped"
+- Being exposed as a bad programmer
 - Misuse (building weapons, rigging elections)
 - Sustainability (Who updates the code? Who pays for this?)
 
@@ -137,54 +139,6 @@ No license : no **right** to copy.
 
 # Closed Source Case Study: 
 
-
-
-# Reasons **not** to make code open
-
-::: incremental
-
-- Wait for publication
-- Want to commercialise
-- Don't have permission (e.g. co-authors / collaborations)
-- Shyness / fear
-
-:::
-
-# Wait for publication...
-
-Fear of scoop by a competing group.
-
-::: incremental
-
-- Open code:
-  - Faster impact
-  - More eyes, less bugs
-
-:::
-
-# Want to commercialise...
-
-Open source software is compatible with capitalism.
-
-Explore options for spin outs / licensing early (*Research Services Impact & IP Team*).
-
-# Don't have permission...
-
-::: incremental
-
-- Ask for permission from co-authors.
-- Check what project-specific restrictions are in place.
-
-:::
-
-# Shyness / fear
-
-::: incremental
-
-- "My code isn't good enough."
-- "My code isn't valuable."
-
-:::
 
 # How to open source
 
@@ -256,10 +210,6 @@ graph TD
     A[GitHub] -->|Webhook or action| B(Package Index - PyPI, CRAN, ...)
     A -->|Webhook or action| C(Archive - ORDA, Zenodo, ...)
 -->
-
-# Draft guidance
-
-![](https://mermaid.ink/img/eyJjb2RlIjoiZmxvd2NoYXJ0IFREXG4gICAgQShbV2lsbCB5b3UgaW5jbHVkZSBjb2RlIGZyb20gcGVvcGxlIG91dHNpZGUgdGhlIHByb2plY3Q_XSlcbiAgICBCKFtEb2VzIG5vbi1wcm9qZWN0IGNvZGUgYWxsb3cgcmUtbGljZW5zaW5nP10pXG4gICAgQyhbRG9lcyBmdW5kZXIgcmVxdWlyZSBhIHNwZWNpZmljIGxpY2Vuc2U_XSkgICAgXG4gICAgRChbV2FzIG9wZW4gc291cmNlIGxpY2Vuc2luZyBzcGVjaWZpZWQgaW4gdGhlIGZ1bmRpbmcgYXBwbGljYXRpb24_XSkgICAgXG5cbiAgICBFKFtJcyB0aGVyZSBhIGNvbW1lcmNpYWwgb3Bwb3J0dW5pdHk_XSlcbiAgICBGKGh0dHBzOi8vd3d3LnNoZWZmaWVsZC5hYy51ay9ycy9jb21tZXJjaWFsaXNhdGlvbi9pY2UtZm9ybSlcblxuICAgIEcoVXNlIGFuIGFwcHJvcHJpYXRlIG9wZW4gc291cmNlIGxpY2Vuc2UuKVxuICAgIEgoU2VlayBhc3Npc3RhbmNlIGZyb20gbGlicmFyeSAvIFJTRS4pXG4gICAgSShVc2UgbGljZW5zZSBzdGlwdWxhdGVkIGJ5IGZ1bmRlci4pXG5cbiAgICBKKFtEb2VzIHRoZSBjb21tZXJjaWFsIG9wcG9ydHVuaXR5IHByZWNsdWRlIG9wZW4gc291cmNlIGxpY2VzbmluZz9dKVxuXG4gICAgSyhDbG9zZWQgc291cmNlLilcblxuICAgIEEgLS0-fFllc3wgQlxuICAgIEIgLS0-fE5vfCBIXG4gICAgQiAtLT58WWVzfCBDXG4gICAgQSAtLT58Tm98IENcbiAgICBDIC0tPnxZZXN8IElcbiAgICBDIC0tPnxOb3wgRFxuICAgIEQgLS0-fFllc3wgR1xuICAgIEQgLS0-fE5vfCBFXG4gICAgRSAtLT58WWVzfCBGXG4gICAgRiAtLT4gSlxuICAgIEogLS0-fE5vfCBHXG4gICAgRSAtLT58Tm98IEdcbiAgICBKIC0tPnxZZXN8IEsiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9){ height=512px }
 
 # University of Sheffield advice
 
