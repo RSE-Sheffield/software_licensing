@@ -68,6 +68,31 @@ No license : no **right** to copy.
 - Faster impact
 - More eyes, less bugs
 - Access for everyone, regardless of ability to pay
+- Encouraged by UK Government
+
+# Motivation: FAIR Priniciples
+
+![](https://the-turing-way.netlify.app/_images/fair-principles.jpg){ height=300px }
+
+The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
+
+# FAIR4RS: We envision a world where:
+
+* All research is reproducible
+* All research software is open
+* All research software is usable by others (for their own research)
+* All contributors to research software are recognized for their work
+* All research software is sustained as long as it is useful
+* All research software is high-quality and robust
+
+[Katz et al. 2021](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf)
+
+# [Four freedoms (abridged)](https://www.gnu.org/philosophy/free-sw.en.html)
+
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).
+- The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3).
 
 # Open Source Drawbacks
 
@@ -95,10 +120,16 @@ No license : no **right** to copy.
 - May increase the value of closed source licences, or products derived from the software.
 - Resulting revenue might fund:
   - Sustainability and maintenance
-  - Further development
+  - Further research and development
   - Regulatory compliance
   - Support
   - Your yacht (😂 - but you may benefit financially)
+
+# Impact of Closed Source
+
+- Open source tends to have more difficult user experiences (contrast MacOS and Linux on user devices).
+- This comes from understanding the market and the end user.
+- Which comes from market and user research, paid for by software licencing revenue.
 
 # Closed Source Drawbacks
 
@@ -111,30 +142,6 @@ No license : no **right** to copy.
 - 
 
 # Closed Source Case Study: 
-
-# Motivation: FAIR Priniciples
-
-![](https://the-turing-way.netlify.app/_images/fair-principles.jpg){ height=300px }
-
-The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
-
-# FAIR4RS: We envision a world where:
-
-* All research is reproducible
-* All research software is open
-* All research software is usable by others (for their own research)
-* All contributors to research software are recognized for their work
-* All research software is sustained as long as it is useful
-* All research software is high-quality and robust
-
-[Katz et al. 2021](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf)
-
-# [Four freedoms (abridged)](https://www.gnu.org/philosophy/free-sw.en.html)
-
-- The freedom to run the program as you wish, for any purpose (freedom 0).
-- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).
-- The freedom to redistribute copies so you can help others (freedom 2).
-- The freedom to distribute copies of your modified versions to others (freedom 3).
 
 # National Policy
 
