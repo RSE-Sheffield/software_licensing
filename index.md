@@ -70,7 +70,7 @@ No license : no **right** to copy.
 - Access for everyone, regardless of ability to pay
 - Encouraged by UK Government
 
-# Motivation: FAIR Principles
+# FAIR Principles
 
 > ...the existing digital ecosystem surrounding scholarly data publication prevents us from extracting maximum benefit from our research investments...
 
@@ -79,6 +79,14 @@ No license : no **right** to copy.
 **Findability**, **Accessibility**, **Interoperability**, and **Reuse**
 
 [FAIR4RS](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf), [Four freedoms (abridged)](https://www.gnu.org/philosophy/free-sw.en.html)
+
+# National Policy
+
+![](images/roadmap.png)
+
+[https://www.gov.uk/government/publications/uk-research-and-development-roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap)
+
+[OGL 3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 # Open Source Drawbacks
 
@@ -129,13 +137,7 @@ No license : no **right** to copy.
 
 # Closed Source Case Study: 
 
-# National Policy
 
-![](images/roadmap.png)
-
-[https://www.gov.uk/government/publications/uk-research-and-development-roadmap](https://www.gov.uk/government/publications/uk-research-and-development-roadmap)
-
-[OGL 3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 # Reasons **not** to make code open
 
