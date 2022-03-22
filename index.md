@@ -121,11 +121,19 @@ No license : no **right** to copy.
   - Support
   - Your yacht (😂 - but you may benefit financially)
 
-# Impact of Closed Source
+# The World Needs Closed Source
 
 - Open source tends to have more difficult user experiences (contrast MacOS and Linux on user devices).
 - This comes from understanding the market and the end user.
 - Which comes from market and user research, paid for by software licencing revenue.
+
+# Software Licensing Income
+
+- Over the last six years of available data the **University of Sheffield** made about **£300,000** in software licensing income per year.
+- The **University of Cambridge** made the most in the UK at **£1.5 million** per year.
+- Total research income for these two institutions were around **£175 million** and **£527 million** per year, respectively.
+
+[Software licencing income summary](https://rse.shef.ac.uk/soft_income/)
 
 # Closed Source Drawbacks
 
@@ -215,6 +223,6 @@ graph TD
 
 - [Research Software Engineering team **Code Clinic**](https://rse.shef.ac.uk/)
 - [Library, Research Data Management](https://www.sheffield.ac.uk/library/rdm)
-- [Research Services Impact & IP Team](https://www.sheffield.ac.uk/rs/impact)
+- [University of Sheffield Commercialisation](https://www.sheffield.ac.uk/research-services/commercialisation)
 
 # Thank you
