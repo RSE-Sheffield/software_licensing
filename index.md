@@ -223,7 +223,7 @@ Make a package and publish to an appropriate place e.g.
 
 e.g. (ORDA)
 
-> Beton, Joseph; Pyne, Alice; Praveen Joseph, Agnel; Topf, Maya (2020): TopoStats - an automated tracing program for AFM images. The University of Sheffield. Software. https://doi.org/10.15131/shef.data.13103327.v3 
+*Beton, Joseph; Pyne, Alice; Praveen Joseph, Agnel; Topf, Maya (2020): TopoStats - an automated tracing program for AFM images. The University of Sheffield. Software. https://doi.org/10.15131/shef.data.13103327.v3*
 
 # Automation
 
