@@ -212,9 +212,24 @@ No license : no **right** to copy.
 
 License individually.
 
-# Even FAIRer?
+# Encouraging Reuse
+
+Make a package and publish to an appropriate place e.g.
+
+- **PyPI** for `Python`
+- **CRAN** for `R`
+
+# Citing Software
+
+e.g. (ORDA)
+
+> Beton, Joseph; Pyne, Alice; Praveen Joseph, Agnel; Topf, Maya (2020): TopoStats - an automated tracing program for AFM images. The University of Sheffield. Software. https://doi.org/10.15131/shef.data.13103327.v3 
+
+# Automation
 
 ![](images/fairpusher.svg){ height=512px }
+
+Contact RSE Team for further technical advice.
 
 <!--
 graph TD
