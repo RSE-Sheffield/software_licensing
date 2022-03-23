@@ -143,7 +143,10 @@ No license : no **right** to copy.
 
 # Closed Source Case Study: [Fluent](https://www.nafems.org/blog/posts/analysis-origins-fluent/)
 
-- 
+- Computational Fluid Dynamics (CFD) models liquid and air flows and is now considered essential to many aspects of engineering
+- Code developed in 1970s
+- Licensing in early 1980s
+- Part of the basis for market leader [ANSYS Fluent](https://www.ansys.com/en-gb/products/fluids/ansys-fluent)
 
 # Closed Source Case Study: 
 
