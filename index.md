@@ -38,6 +38,9 @@ Software Consultant -> Researcher -> Research Software Engineer
 
 # Talk Structure
 
+- Definitions
+- Open and closed source
+- Practicalities of open sourcing
 
 # Copyright
 
